@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(200, 200, 200);
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+}
+
+h3,
+h2 {
+    color: rgb(20, 20, 20);
+    text-decoration: underline;
+    font-style: italic
+}
+
+img {
+    border: 3px solid black;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+li {
+    font-style: oblique;
+}
+
+button {
+    background-color: rgb(25, 25, 25);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
